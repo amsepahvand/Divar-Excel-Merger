@@ -41,19 +41,12 @@ python merger.py
 ### output_list.xlsx
 | Description                |
 |----------------------------|
-| John Doe is a developer.   |
-| Jane Smith is a manager.   |
+| Paid by, John Doe          |
+| Paid by, Jane Smith        |
 
 ### Result in updated_output_list.xlsx
 | Description                | First Name And Surname | Personal ID | Company      |
 |----------------------------|------------------------|-------------|--------------|
-| John Doe is a developer.   | John Doe               |2f66e42f66e4 | Example Inc. |
-| Jane Smith is a manager.   | Jane Smith             |2f66e42f66e4 | Sample LLC   |
+| Paid by, John Doe          |      John Doe          |2f66e42f66e4 | Example Inc. |
+| Paid by, Jane Smith        |      Jane Smith        |2f66e42f66e4 | Sample LLC   |
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Pandas Documentation](https://pandas.pydata.org/docs/) for data manipulation.
