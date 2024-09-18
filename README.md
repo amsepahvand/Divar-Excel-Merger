@@ -1,6 +1,5 @@
 # Data Enrichment Script
 
-This Python script enriches an output list with additional information from an information list. It matches names from the information list with descriptions in the output list and adds corresponding details.
 
 ## Requirements
 
