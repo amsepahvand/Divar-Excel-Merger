@@ -26,7 +26,8 @@ pip install pandas
 2. **Run the Script**: Execute the script using Python:
 
 ```bash
-python merger.py
+python3 merger.py
+```
 
 3. **Output**: The script will create a new file named `updated_output_list.xlsx` in the same directory. This file will contain the original data from `output_list.xlsx` along with the matched `First Name And Surname`, `Personal ID`, and `Company` from `information_list.xlsx`.
 
